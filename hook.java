@@ -2,7 +2,7 @@ class hook
 {
   Public static void main(String args[])
 {
-	System.out.println("hello this is my second project for testing")
+	System.out.println("hello this is my second project for testings")
 }
 }
 
